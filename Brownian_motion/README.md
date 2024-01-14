@@ -4,6 +4,8 @@
 
 This Java program simulates Brownian motion, a phenomenon where particles in a fluid move randomly due to collisions with surrounding molecules. The code provides a graphical representation of particles undergoing Brownian motion within a defined boundary.
 
+![Brownian_Motion](Brownian_Motion.png)
+
 ## Brownian Motion
 
 Brownian motion, named after the scientist Robert Brown, is the random motion of particles suspended in a fluid (liquid or gas) resulting from their collision with fast-moving atoms or molecules in the fluid. This motion is characterized by its random and unpredictable nature, which was one of the key pieces of evidence for the existence of atoms and molecules.
