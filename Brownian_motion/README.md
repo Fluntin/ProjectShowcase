@@ -4,7 +4,9 @@
 
 This Java program simulates Brownian motion, a phenomenon where particles in a fluid move randomly due to collisions with surrounding molecules. The code provides a graphical representation of particles undergoing Brownian motion within a defined boundary.
 
-![Brownian_Motion](Brownian_Motion.png)
+<div align="center">
+  <img src="Brownian_Motion.png" alt="Brownian Motion">
+</div>
 
 ## Brownian Motion
 
